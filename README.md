@@ -15,4 +15,4 @@ Another part of it will have information regarding present location of registere
 The complete medical bio data of the user will also be in stored in the app's database so the proper medications can be given to him.
 
 FUTURE PLAN-
-In cases where the disaster might occur at night or a person is not able to respond to the warnings and notifictions within a predetermined time frame, then a copy of his fingerprint/iris or aadhar number is automatically sent to the nearest safety shelter which can be processed using aadhar database to get more information and evacuate prople.
+In cases where the disaster might occur at night or a person is not able to respond to the warnings and notifictions within a predetermined time frame, then a copy of his fingerprint/iris or aadhar number is automatically sent to the nearest safety shelter which can be processed using aadhar database to get more information and evacuate people.
