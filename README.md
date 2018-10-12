@@ -1,4 +1,5 @@
 Prediction and management of floods
+
 PREDICTION-
 The app uses data from India Meteorological Department(IMD) and sends timely warnings to the users about the possible occurence of a flood.
 We plan to use data from IMD and google maps to find out the places above the predicted flood levels and guiding people through AR to the nearest safe spots.
